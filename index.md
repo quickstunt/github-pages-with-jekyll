@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Hi, I'm a new hobbyist programmer and have written small Swift programs in mainly weekend since 2016. I'm glad you are here.
